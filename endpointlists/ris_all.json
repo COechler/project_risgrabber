@@ -1,0 +1,2117 @@
+[
+    {
+        "name": "Aalen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.aalen.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Ahaus",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/stadt-ahaus/bi/si0040.asp"
+    },
+    {
+        "name": "Ahnatal",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/ahnatal/termine"
+    },
+    {
+        "name": "Ahrensburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://infonet.ahrensburg.de/sessionnetbi/si0040.asp"
+    },
+    {
+        "name": "Amberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://amberg.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Ammerbuch",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://ammerbuch.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Amt Hagenow-Land",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://hagenow.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Amt Kellinghusen",
+        "grabber": "SessionNetGrabberXXX",
+        "entry_point": "https://sessionnet.owl-it.de/amt-kellinghusen/bi/si0040.asp?__cmandant=2"
+    },
+    {
+        "name": "Auenwald",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://auenwald.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Augsburg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://ratsinfo.augsburg.de/bi/si010.asp"
+    },
+    {
+        "name": "Aulendorf",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.aulendorf.de/bi/si0040.php"
+    },
+    {
+        "name": "Aurich",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.aurich.de/sessionnet/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Backnang",
+        "grabber": "SessionNetGrabberXXX",
+        "entry_point": "https://buergerinfo.backnang.de/si0040.php?__cmandant=2"
+    },
+    {
+        "name": "Bad Arolsen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/bad-arolsen/termine"
+    },
+    {
+        "name": "Bad Bentheim",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-bentheim.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Bad Bramstedt",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-bramstedt.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Bad Grund (Harz)",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/bad_grund/bi/si0040.asp"
+    },
+    {
+        "name": "Bad Heilbrunn",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-heilbrunn.sitzung-online.de/bi/si010_e.asp"
+    },
+    {
+        "name": "Bad König",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/bad-koenig/termine"
+    },
+    {
+        "name": "Bad Mergentheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfosystem.bad-mergentheim.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Bad Muskau",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://badmuskau.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Bad Nauheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/badnauheim/bi/si0040.asp"
+    },
+    {
+        "name": "Bad Oeynhausen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.badoeynhausen.sitzung-online.de/integration/si010"
+    },
+    {
+        "name": "Bad Oldesloe",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://badoldesloe.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Bad Orb",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-orb.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Bad Reichenhall",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.stadt-bad-reichenhall.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Bad Schwartau",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-schwartau.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Bad Staffelstein",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo-bad-staffelstein.digitalfabrix.de/si0040.asp"
+    },
+    {
+        "name": "Bad Tölz",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-toelz.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Bad Vilbel",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/bad-vilbel/termine"
+    },
+    {
+        "name": "Balingen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://service.balingen.info/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Bamberg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.stadt.bamberg.de/buergerinformationssystem/si010"
+    },
+    {
+        "name": "Barsinghausen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.barsinghausen.de/bi/si0040.php"
+    },
+    {
+        "name": "Baunatal",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/baunatal/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Bayreuth",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://online-dienste.bayreuth.de/sessionnet/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Bismark (Altmark)",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://bi.stadt-bismark.de/si0040.php"
+    },
+    {
+        "name": "Bitz",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://bitz.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Bergisch Gladbach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://mandatsinfo.bergischgladbach.de/buergerinformationssystem/si0040.asp"
+    },
+    {
+        "name": "Bergkamen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.bergkamen.de/bi/si0040.asp"
+    },
+    {
+        "name": "Bergkirchen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.bergkirchen.de/si0040.asp"
+    },
+    {
+        "name": "Bernburg (Saale)",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.bernburg.de/si0040.php"
+    },
+    {
+        "name": "Biebertal",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/biebertal/bi/si0040.asp"
+    },
+    {
+        "name": "Bielefeld",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://anwendungen.bielefeld.de/bi/si0040.asp"
+    },
+    {
+        "name": "Blieskastel",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.blieskastel.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Borken",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/borken/termine"
+    },
+    {
+        "name": "Bruchköbel",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/bruchkoebel/termine"
+    },
+    {
+        "name": "Brühl",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.bruehl-baden.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Buchholz",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.buchholz.de/allris/si010"
+    },
+    {
+        "name": "Buseck",
+        "grabber": "BuseckGrabber",
+        "entry_point": "https://www.buseck.de/bi/si0040.asp"
+    },
+    {
+        "name": "Buxtehude",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.buxtehude.de/allris/si018"
+    },
+    {
+        "name": "Celle",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.celle.de/buergerinformationssystem/si010"
+    },
+    {
+        "name": "Chemnitz",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/chemnitz/bi/si0046.asp"
+    },
+    {
+        "name": "Coesfeld",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.coesfeld.de/si0040.php"
+    },
+    {
+        "name": "Cottbus",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://session.cottbus.de/buerger/si0040.asp"
+    },
+    {
+        "name": "Delmenhorst",
+        "graber": "AllrisGrabber",
+        "entry_point": "https://www.sitzungsdienst-delmenhorst.de/bi-r/si010_r.asp"
+    },
+    {
+        "name": "Dessau-Roßlau",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.dessau.de/bi/si0040.asp"
+    },
+    {
+        "name": "Dettenheim",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://dettenheim.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Dorfen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ri.dorfen.de/bi/si0040.php"
+    },
+    {
+        "name": "Dresden",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.dresden.de/si0040.asp"
+    },
+    {
+        "name": "Duisburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/duisburg/bi/si0040.asp"
+    },
+    {
+        "name": "Düsseldorf",
+        "grabber": "OParlGrabber",
+        "entry_point": "https://ris-oparl.itk-rheinland.de/Oparl/system"
+    },
+    {
+        "name": "Eberswalde",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.eberswalde.de/sessionnet/bi/si0040.php"
+    },
+    {
+        "name": "Edermünde",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/edermuende/termine"
+    },
+    {
+        "name": "Eltville am Rhein",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/eltville/termine"
+    },
+    {
+        "name": "Ehringshausen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/ehringshausen/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Emmerich am Rhein",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.emmerich.de/bi/si0040.asp"
+    },
+    {
+        "name": "Eppelheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.eppelheim.de/is/bi/si0040.asp"
+    },
+    {
+        "name": "Eppstein",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.eppstein.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Erfurt",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.erfurt.de/bi/si0040.php"
+    },
+    {
+        "name": "Erlangen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.erlangen.de/si0040.asp"
+    },
+    {
+        "name": "Erzhausen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/erzhausen/termine"
+    },
+    {
+        "name": "Eschenbach",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://gemeinde-eschenbach.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Eschwege",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/eschwege/termine"
+    },
+    {
+        "name": "Essen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://ris.essen.de/termine"
+    },
+    {
+        "name": "Eurasburg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.eurasburg.sitzung-online.de/bi/si010_e.asp"
+    },
+    {
+        "name": "Eutingen im Gäu",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://eutingen-im-gaeu.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Feldkirchen-Westerham",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://feldkirchen-westerham.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Fellbach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://gemeinderat-online.fellbach.de/si0040.asp"
+    },
+    {
+        "name": "Felsberg",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/felsberg/termine"
+    },
+    {
+        "name": "Fernwald",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Flensburg",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://ratsinfo.flensburg.de/termine"
+    },
+    {
+        "name": "Friedberg (Hessen)",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.ratsinfo-friedberg-hessen.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Friedewald",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/friedewald/termine"
+    },
+    {
+        "name": "Friedrichshafen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://friedrichshafen-sitzungsdienst.komm.one/bi/si0040.asp"
+    },
+    {
+        "name": "Fritzlar",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/fritzlar/termine"
+    },
+    {
+        "name": "Fürstenwalde/Spree",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://binfo.fuerstenwalde-spree.de/si0040.asp"
+    },
+    {
+        "name": "Fürth",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://stadtrat.fuerth.de/si0040.asp"
+    },
+    {
+        "name": "Garching",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.garching.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Gardelegen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.kitu-genossenschaft.de/ga_bi/si0040.asp"
+    },
+    {
+        "name": "Gehrden",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/gehrden/bi/si0040.asp"
+    },
+    {
+        "name": "Gießen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://parlamentsinfo.giessen.de/si0040.php"
+    },
+    {
+        "name": "Glauburg",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/glauburg/termine"
+    },
+    {
+        "name": "Gomaringen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://gomaringen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Göttingen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.goettingen.de/allris/si010"
+    },
+    {
+        "name": "Grafing bei München",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo-grafing.digitalfabrix.de/si0040.asp"
+    },
+    {
+        "name": "Grävenwiesbach",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/graevenwiesbach/termine"
+    },
+    {
+        "name": "Großrinderfeld",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://grossrinderfeld.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Groß-Umstadt",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://parlamentsinfo.gross-umstadt.de/si0040.asp"
+    },
+    {
+        "name": "Gummersbach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.gummersbach.de/bi/si0040.php"
+    },
+    {
+        "name": "Gundelsheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.gundelsheim.de/bi/si0040.asp"
+    },
+    {
+        "name": "Guxhagen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/guxhagen/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Hagenow",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://hagenow.sitzung-mv.de/public/si010"
+    },
+    {
+        "name": "Haiger",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/haiger/termine"
+    },
+    {
+        "name": "Halle (Saale)",
+        "grabber": "SessionNetOldGrabber",
+        "entry_point": "https://buergerinfo.halle.de/si0040.asp"
+    },
+    {
+        "name": "Hambrücken",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://hambruecken.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Hammelburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.hammelburg.de/si0040.php"
+    },
+    {
+        "name": "Hanau",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.sitzungsdienst-hanau.de/bi/si010.asp"
+    },
+    {
+        "name": "Hartheim am Rhein",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://hartheim.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Hatzfeld (Eder)",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://hatzfeldeder.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Heidelberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.gemeinderat.heidelberg.de/si0040.asp"
+    },
+    {
+        "name": "Heiligenhafen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.heiligenhafen.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Hemau",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.hemau.de/si0040.asp"
+    },
+    {
+        "name": "Herne",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.herne.de/allris/si010_j.asp"
+    },
+    {
+        "name": "Herzberg (Elster)",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://ratsinfo-online.de/herzberg-bi/si010_e.asp"
+    },
+    {
+        "name": "Hesel",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsportal.hesel.de/bi/si0040.asp"
+    },
+    {
+        "name": "Hessigheim",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://hessigheim.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Hessisch Lichtenau",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/hessisch-lichtenau/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Hettingen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://hettingen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Heuchelheim",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/heuchelheim/termine"
+    },
+    {
+        "name": "Hilden",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://gi.hilden.de/bi/si0040.asp"
+    },
+    {
+        "name": "Hof",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.stadt-hof.org/session/bi/si0040.php"
+    },
+    {
+        "name": "Hofgeismar",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/hofgeismar/termine"
+    },
+    {
+        "name": "Homberg (Efze)",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/homberg-efze/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Hünfeld",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://huenfeld.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Hungen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/hungen/termine"
+    },
+    {
+        "name": "Hüttenberg",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://huettenberg.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Idstein",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/idstein/bi/si0040.asp"
+    },
+    {
+        "name": "Igersheim",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://igersheim.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Ingolstadt",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.ingolstadt.de/sessionnet/si0040.php"
+    },
+    {
+        "name": "Isen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.markt-isen.de/si0040.php"
+    },
+    {
+        "name": "Jena",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/jena/bi/si0046.asp"
+    },
+    {
+        "name": "Jestetten",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://jestetten.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Jossgrund",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/jossgrund/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kaufbeuren",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.kaufbeuren.de/si0040.asp"
+    },
+    {
+        "name": "Kiel",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.kiel.de/de/politik_verwaltung/ratsversammlung/infosystem/si010"
+    },
+    {
+        "name": "Kleines Wiesental",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://kleines-wiesental.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Kleinostheim",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.kleinostheim.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Koblenz",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.koblenz.de/si0040.php"
+    },
+    {
+        "name": "Konstanz",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.konstanz.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Königstein",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/koenigstein/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kraichtal",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://kraichtal-sitzungsdienst.komm.one/bi/si0040.asp"
+    },
+    {
+        "name": "Krefeld",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ris.krefeld.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kreis Coesfeld",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.kreis-coesfeld.de/sessionnet/sessionnetbi/si0040.php"
+    },
+    {
+        "name": "Kreis Herzogtum Lauenburg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.herzogtum-lauenburg.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Kreis Rendsburg-Eckernförde",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.kreis-rendsburg-eckernfoerde.de/politik-verwaltung/politik-und-verwaltung-des-kreises/allris/si010"
+    },
+    {
+        "name": "Kreis Segeberg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.segeberg.sitzung-online.de/si010"
+    },
+    {
+        "name": "Kreis Warendorf",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.kreis-warendorf.de/w1/sessionnet/bi/si0040.php"
+    },
+    {
+        "name": "Kressbronn am Bodensee",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://service.kressbronn.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Lahntal",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/lahntal/termine"
+    },
+    {
+        "name": "Landau",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://info.landau.de/0001_bi/si0040.asp"
+    },
+    {
+        "name": "Langen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://langen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Langgöns",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/langgoens/termine"
+    },
+    {
+        "name": "Laubach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.laubach-online.de/sessionnet/bi/si0040.asp"
+    },
+    {
+        "name": "Landkreis Aurich",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://session.landkreis-aurich.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Landkreis Bad Kreuznach",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.bad-kreuznach.sitzung-online.de/bi/si010.asp"
+    },
+    {
+        "name": "Landkreis Cloppenburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.lkclp.de/si0040.asp"
+    },
+    {
+        "name": "Landkreis Coburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.landkreis-coburg.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Landkreis Ebersberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.lra-ebe.de/si0040.asp"
+    },
+    {
+        "name": "Landkreis Gießen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://politik.lkgi.de/bi/si0040.asp"
+    },
+    {
+        "name": "Landkreis Konstanz",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://kreistag.lrakn.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Landkreis Limburg-Weilburg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/limburg-weilburg/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Landkreis Lörrach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://session.loerrach-landkreis.de/data/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Landkreis Ludwigsburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sbi.landkreis-ludwigsburg.de/si0040.php"
+    },
+    {
+        "name": "Landkreis Marburg-Biedenkopf",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://marburg-biedenkopf.ratsinfomanagement.net/termine"
+    },
+    {
+        "name": "Landkreis Neu-Ulm",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://landkreis.neu-ulm.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Landkreis Stendal",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sitzungsdienst.landkreis-stendal.de/bi/si0040.php"
+    },
+    {
+        "name": "Landkreis Vechta",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://kreistagsinfo.landkreis-vechta.de/bi/si0040.asp"
+    },
+    {
+        "name": "Landkreis Waldeck-Frankenberg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/waldeck-frankenberg/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Landkreis Waldshut",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://kreistag.landkreis-waldshut.de/si0040.asp"
+    },
+    {
+        "name": "Landkreis Würzburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.landkreis-wuerzburg.de/si0040.php"
+    },
+    {
+        "name": "Landkreis Zwickau",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.landkreis-zwickau.de/bi/si0040.asp"
+    },
+    {
+        "name": "Leonberg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.leonberg.de/ratsinformationssystem/si010"
+    },
+    {
+        "name": "Leun",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/leun/termine"
+    },
+    {
+        "name": "Leutenbach",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://leutenbach.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Leutkirch im Allgäu",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://leutkirch.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Leverkusen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.leverkusen.de/si0040.asp"
+    },
+    {
+        "name": "Lich",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://lich.ratsinfomanagement.net/termine"
+    },
+    {
+        "name": "Linden",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.sitzungsdienst-linden.de/bürgerinfo/si0040.asp"
+    },
+    {
+        "name": "Lindlar",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.lindlar.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Löhne",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.ratsinfo-lohne.de/bi/si0040.asp"
+    },
+    {
+        "name": "Lollar",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/lollar/termine"
+    },
+    {
+        "name": "Lorch am Rhein",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/lorch/termine"
+    },
+    {
+        "name": "Lörrach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo-loerrach.de/si0040.php"
+    },
+    {
+        "name": "Lottstetten",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://lottstetten.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Lübbenau/Spreewald",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.luebbenau.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Ludwigsau",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/ludwigsau/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Ludwigsburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.ludwigsburg.de/bi/si0040.php"
+    },
+    {
+        "name": "Ludwigshafen am Rhein",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ludwigshafen.de/ratsinformationssystem/bi/si0040.php"
+    },
+    {
+        "name": "Magdeburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.magdeburg.de/si0040.asp"
+    },
+    {
+        "name": "Main-Tauber-Kreis",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.main-tauber-kreis.de/bi/si0040.asp"
+    },
+    {
+        "name": "Mainz",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://bi.mainz.de/si0040.php"
+    },
+    {
+        "name": "Mannheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.mannheim.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Mansfeld",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/mansfeld/bi/info.asp"
+    },
+    {
+        "name": "Marburg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.marburg.de/allris/si010"
+    },
+    {
+        "name": "Meerbusch",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.meerbusch.de/sessionnetmeebi/si0040.asp"
+    },
+    {
+        "name": "Memmingen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.memmingen.de/bi/si0040.asp"
+    },
+    {
+        "name": "Meschede",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.meschede.sitzung-online.de/bi/si010_j.asp"
+    },
+    {
+        "name": "Moos",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://moos.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Mudau",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://mudau.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Mühlhausen (Kraichgau)",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://muehlhausen-kraichgau.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Münster",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://oparl.stadt-muenster.de/system"
+    },
+    {
+        "name": "Neu-Anspach",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/neu-anspach/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Neuberg",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/neuberg/termine"
+    },
+    {
+        "name": "Neuffen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://neuffen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Neukloster",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://neukloster.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Neuhof",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/neuhof/termine"
+    },
+    {
+        "name": "Neustadt (Hessen)",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/neustadt/termine"
+    },
+    {
+        "name": "Nidda",
+        "grabber":"SDNetGrabber",
+        "entry_point": "https://nidda.ratsinfomanagement.net/termine"
+    },
+    {
+        "name": "Nidderau",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/nidderau/termine"
+    },
+    {
+        "name": "Niederdorfelden",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/niederdorfelden/termine"
+    },
+    {
+        "name": "Niederorschel",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://niederorschel.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Nienburg/Weser",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.nienburg.de/bineu/si0040.php"
+    },
+    {
+        "name": "Norderstedt",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.norderstedt.de/ratsinfo/sessionnet/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Nürnberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://online-service2.nuernberg.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Obertshausen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://obertshausen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Oberzent",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/oberzent/termine"
+    },
+    {
+        "name": "Ober-Ramstadt",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/ober-ramstadt/termine"
+    },
+    {
+        "name": "Oestrich-Winkel",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/oestrich-winkel/termine"
+    },
+    {
+        "name": "Offenburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.offenburg.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Oldenburg in Holstein",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.oldenburg-holstein.sitzung-online.de/bi/si010_e.asp"
+    },
+    {
+        "name": "Olpe",
+        "grabber": "OParlGrabber",
+        "entry_point": "https://ratsinfo.olpe.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Orsingen-Nenzingen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://orsingen-nenzingen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Ortenberg",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/ortenberg/termine"
+    },
+    {
+        "name": "Ostelsheim",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://ostelsheim.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Ottersweier",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://ottersweier.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Owingen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://owingen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Pfalzgrafenweiler",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://pfalzgrafenweiler.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Philippsburg",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://philippsburg.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Pinneberg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://allris.pinneberg.de/public/si010"
+    },
+    {
+        "name": "Pirmasens",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://rip.stadt-pirmasens.de/bi/si0040.asp"
+    },
+    {
+        "name": "Pohlheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sitzungsdienst.pohlheim.de/bi/si0040.asp"
+    },
+    {
+        "name": "Potsdam",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://egov.potsdam.de/public/si010"
+    },
+    {
+        "name": "Quickborn",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.quickborn.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Radolfzell",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.radolfzell.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Rauenberg",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://rauenberg.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Rasdorf",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://rasdorf.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Ratzeburg",
+        "grabber": "SessionNetGrabberXXX",
+        "entry_point": "https://session.ratzeburg.de/bi/si0040.php"
+    },
+    {
+        "name": "Raunheim",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/raunheim/termine"
+    },
+    {
+        "name": "Ravensburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://session.ravensburg.de/bi/si0040.asp"
+    },
+    {
+        "name": "Regensburg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://srv19.regensburg.de/bi/si010.asp"
+    },
+    {
+        "name": "Reichenau",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://reichenau-sitzungsdienst.komm.one/bi/si0040.asp"
+    },
+    {
+        "name": "Reilingen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://reilingen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Reiskirchen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/reiskirchen/gremien/termine"
+    },
+    {
+        "name": "Rellingen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.rellingen.sitzung-online.de/integration/si010"
+    },
+    {
+        "name": "Rheinau",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.rheinau.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Rhein-Kreis Neuss",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://session.rhein-kreis-neuss.de/bi/si0040.asp"
+    },
+    {
+        "name": "Rheinstetten",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://rheinstetten.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Roßdorf",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/rossdorf/termine"
+    },
+    {
+        "name": "Rüsselsheim am Main",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/ruesselsheim/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Salzhausen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.salzhausen.de/allris/si010"
+    },
+    {
+        "name": "Salzlandkreis",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://bi.salzlandkreis.de/si0040.asp"
+    },
+    {
+        "name": "Samtgemeinde Elbtalaue",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.elbtalaue.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Sangerhausen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.sangerhausen.de/si0040.asp"
+    },
+    {
+        "name": "Schallstadt",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://schallstadt.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Schlangenbad",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/schlangenbad/termine"
+    },
+    {
+        "name": "Schleswig",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.schleswig.de/verwaltung-politik/politik-allris/allris/si010"
+    },
+    {
+        "name": "Schmitten",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/schmitten/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Schwalmstadt",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://schwalmstadt.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Schwerin",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://bis.schwerin.de/si0040.asp"
+    },
+    {
+        "name": "Sehmatal",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://sehmatal.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Siegburg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/siegburg/bi/si0040.asp"
+    },
+    {
+        "name": "Soest",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.soest.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Solms",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://solms.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Stade",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/stade/bi/si0040.asp"
+    },
+    {
+        "name": "Stadtallendorf",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.stadtallendorf.de/bi/si0040.php"
+    },
+    {
+        "name": "Stadthagen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.stadthagen.sitzung-online.de/pi/si010_e.asp"
+    },
+    {
+        "name": "Staufenberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://gremien-staufenberg.de/bi/si0040.php"
+    },
+    {
+        "name": "Staßfurt",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.stassfurt.de/bi/si0040.asp"
+    },
+    {
+        "name": "Sternenfels",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://sternenfels.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Stockelsdorf",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://stockelsdorf.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Stralsund",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://webris.stralsund.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Sulzbach-Laufen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://sulzbach-laufen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Tangerhütte",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://bi.tangerhuette.de/si0040.php"
+    },
+    {
+        "name": "Taunusstein",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.taunusstein.de/allris/si010"
+    },
+    {
+        "name": "Tegernsee",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.tegernsee.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Teningen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.ratsinfo-teningen.de/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Tornesch",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.tornesch.de/buergerinformationssystem/si010/"
+    },
+    {
+        "name": "Trittau",
+        "grabebr": "AllrisGrabber",
+        "entry_point": "https://www.trittau.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Twistringen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.twistringen.de/allris/si010_e.asp"
+    },
+    {
+        "name": "Überlingen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.ueberlingen.de/si0040.php"
+    },
+    {
+        "name": "Uhingen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://uhingen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Ulm",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.ulm.de/si0040.php"
+    },
+    {
+        "name": "Unterschneidheim",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://unterschneidheim.ris-portal.de/web/ratsinformation/sitzungen"
+    },
+    {
+        "name": "Usingen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/usingen/termine"
+    },
+    {
+        "name": "Uslar",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/uslar/bi/si0040.asp"
+    },
+    {
+        "name": "Varel",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.varel.de/si0040.asp"
+    },
+    {
+        "name": "Verbandsgemeinde Pellenz",
+        "grabber": "SessionNetGrabberXXX",
+        "entry_point": "https://gremien.pellenz.de/smcbi/si0040.asp"
+    },
+    {
+        "name": "Verbandsgemeinde Westliche Börde",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.westlicheboerde.de/bi/si0040.asp"
+    },
+    {
+        "name": "Villingen-Schwenningen",
+        "grabber": "MoreRubinGrabber",
+        "entry_point": "https://ris.villingen-schwenningen.de/calendar.php"
+    },
+    {
+        "name": "Vöhl",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/voehl/termine"
+    },
+    {
+        "name": "Wadern",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.wadern.sitzung-online.de/pi/si010.asp"
+    },
+    {
+        "name": "Waldsolms",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/waldsolms/termine"
+    },
+    {
+        "name": "Walluf",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/walluf/termine"
+    },
+    {
+        "name": "Wanfried",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://wanfried.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Wangerland",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.wangerland.org/bi/si0040.asp"
+    },
+    {
+        "name": "Wedel",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.wedel.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Wedemark",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.wedemark.de/allris/si010_e.asp"
+    },
+    {
+        "name": "Wehingen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://wehingen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Weiden in der Oberpfalz",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.weiden.de/buergerinfo/si0040.asp"
+    },
+    {
+        "name": "Weimar (Lahn)",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/weimar/termine"
+    },
+    {
+        "name": "Wenden",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://ratsinfo.wenden.de/termine"
+    },
+    {
+        "name": "Westhausen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://westhausen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Wettenberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/Wettenberg/bi/si0040.asp"
+    },
+    {
+        "name": "Wetzlar",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://politik.wetzlar.de/BI/si0040.asp"
+    },
+    {
+        "name": "Weyhe",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.weyhe.de/allris/si010"
+    },
+    {
+        "name": "Wildeshausen",
+        "grabber": "RegisafeGrabber",
+        "entry_point": "https://wildeshausen.ris-portal.de/sitzungen"
+    },
+    {
+        "name": "Winsen",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.winsen.sitzung-online.de/public/si010"
+    },
+    {
+        "name": "Wittenberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.wittenberg.de/bi/si0040.asp"
+    },
+    {
+        "name": "Wittmund",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ratsinfo.wittmund.de/bi/si0040.asp"
+    },
+    {
+        "name": "Wolgast",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.wolgast.de/sessionnet/buergerinfo/si0040.php"
+    },
+    {
+        "name": "Wuppertal",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://ris.wuppertal.de/si0040.asp"
+    },
+    {
+        "name": "Köln",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://buergerinfo.stadt-koeln.de/oparl/system"
+    },
+    {
+        "name": "Würzburg",
+        "grabber": "AllrisGrabber",
+        "entry_point": "https://www.wuerzburg.sitzung-online.de/BI/si010_e.asp"
+    },
+    {
+        "name": "Bonn",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.bonn.sitzung-online.de/public/oparl/system"
+    },
+    {
+        "name": "Aachen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.aachen.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Dresden",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://oparl.dresden.de/system"
+    },
+    {
+        "name": "Leipzig",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinformation.leipzig.de/allris_leipzig_public/oparl/system"
+    },
+    {
+        "name": "Wuppertal",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://oparl.wuppertal.de/oparl/system"
+    },
+    {
+        "name": "Braunschweig",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.braunschweig.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Freiburg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ris.freiburg.de/oparl"
+    },
+    {
+        "name": "Hagen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.hagen.de/buergerinfo/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Landkreis Ludwigslust-Parchim",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.lwl-pch.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Solingen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Ulm",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://buergerinfo.ulm.de/oparl/system"
+    },
+    {
+        "name": "Castrop-Rauxel",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://castroprauxel.gremien.info/oparl"
+    },
+    {
+        "name": "Kerpen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system"
+    },
+    {
+        "name": "Herford",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Bergheim",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4800/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Pulheim",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4350/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Willich",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ris.stadt-willich.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Erftstadt",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4490/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Landkreis Markisch-Oderland",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Kreis Gütersloh",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4890/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Nettersheim",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4580/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kreis Viersen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://kis.kreis-viersen.de/webservice/oparl/v1.0/system"
+    },
+    {
+        "name": "Euskirchen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4520/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Rheda-Wiedenbrück",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Gronau",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Gütersloh",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://ratsinfo.guetersloh.de/termine"
+    },
+    {
+        "name": "Erkelenz",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.erkelenz.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Stadt Brühl",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.bruehl.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Lahr/Schwarzwald",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://lahr.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Bad Kreuznach",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://bad-kreuznach-stadt.gremien.info/oparl/system"
+    },
+    {
+        "name": "Olpe",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sitzungsdienst.kdz-ws.net/gkz330/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Pirmasens",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://oparl.stadt-pirmasens.de/oparl/system"
+    },
+    {
+        "name": "Wesseling",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Goch",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ris.goch.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Jülich",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4240/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Enger",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Spenge",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Vlotho",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Hiddenhausen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://hiddenhausen.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kirchlengern",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Rödinghausen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Berlin Marzahn-Hellersdorf",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.sitzungsdienst-marzahn-hellersdorf.de/oi/oparl/1.1/system.asp"
+    },
+    {
+        "name": "Berlin Steglitz-Zehlendorf",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Berlin Treptow-Köpenick",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Berlin Reinickendorf",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Berlin Pankow",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Schwalmtal",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ris.schwalmtal.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Ladbergen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Rahden",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Ladbergen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Stemwede",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Stemwede",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Aldenhoven",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Hürtgenwald",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4220/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Inden",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4230/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kreuzau",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4250/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Langerwehe",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4260/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Merzenich",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4280/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Nörvenich",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4160/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Titz",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4170/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Vettweiß",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4180/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Linnich",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4270/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Velbert",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://velbert.ratsinfomanagement.net/termine"
+    },
+    {
+        "name": "Velen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://velen.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Steinhagen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Langenberg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.langenberg.de/webservice/oparl/v1.0/system"
+    },
+    {
+        "name": "Weilerswist",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4510/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kall",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4550/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Bad Münstereifel",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Leopoldshohe",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Wachtendonk",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://ris.wachtendonk.de/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Rees",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sessionnet-oparl.krz.de/oparl/bodies/5205"
+    },
+    {
+        "name": "Bedburg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://sdnetrim.kdvz-frechen.de/rim4780/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Aarbergen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/aarbergen/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Westerburg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://westerburg.gremien.info/oparl/system"
+    },
+    {
+        "name": "Glasau",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.trave.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Schiffdorf",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Willingen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/willingen/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Verbandsgemeinde Hagenbach",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.hagenbach.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Boppard",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://www.boppard.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Harsum",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://www.harsum.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Harsum",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.harsum.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Großalmerode",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/grossalmerode/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "VG Hagenbach",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://www.hagenbach.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Amt Itzstedt",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.itzstedt.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Amt Trave-Land",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.trave.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Verbandsgemeinde Weida-Land",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://weida-land.gremien.info/oparl/system"
+    },
+    {
+        "name": "Bad Pyrmont",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Parchim",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://www.parchim.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Uplengen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://uplengen.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Cölbe",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/coelbe/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Lohfelden",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Herxheim",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://herxheim.gremien.info/oparl/system"
+    },
+    {
+        "name": "Bleckede",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://www.bleckede.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Waldbrunn (Westerwald)",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/waldbrunn/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Kronberg im Taunus",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://kronberg.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Rosbach vor der Höhe",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.rosbach.sitzung-online.de/bi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Ortenberg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/ortenberg/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Homberg (Ohm)",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/homberg-ohm/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Schwarzenborn",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/schwarzenborn/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Wallenhorst",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Sögel",
+        "grabber": "OparlGrabber",
+        "entry_point": "http://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Glashütten",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/glashuetten/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Emmelshausen",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://emmelshausen.gremien.info/oparl/system"
+    },
+    {
+        "name": "Montabaur",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://montabaur.gremien.info/oparl/system"
+    },
+    {
+        "name": "Edenkoben",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://edenkoben.gremien.info/oparl/system"
+    },
+    {
+        "name": "Enkenbach-Alsenborn",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://enkenbach-alsenborn.gremien.info/oparl/system"
+    },
+    {
+        "name": "Salzatal",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://salzatal.gremien.info/oparl/system"
+    },
+    {
+        "name": "Berlin Lichtenberg",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp"
+    },
+    {
+        "name": "Emsdetten",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system"
+    }
+]

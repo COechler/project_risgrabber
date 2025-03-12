@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "risgrabber"
+description = "Libary for grabbing information of the parlament information systems"
+version = "2025.2"
+authors = [{name = "Christian Oechler"}]
+dependencies = ["selenium","beautifulsoup4","requests"]
+readme = "README.md"

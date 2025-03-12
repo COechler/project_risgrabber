@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Biebertal",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.krz.de/biebertal/bi/si0040.asp"
+    },
+    {
+        "name": "Buseck",
+        "grabber": "BuseckGrabber",
+        "entry_point": "https://www.buseck.de/bi/si0040.asp"
+    },
+    {
+        "name": "Fernwald",
+        "grabber": "OparlGrabber",
+        "entry_point": "https://rim.ekom21.de/fernwald/webservice/oparl/v1.1/system"
+    },
+    {
+        "name": "Gießen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://parlamentsinfo.giessen.de/si0040.php"
+    },
+    {
+        "name": "Heuchelheim",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/heuchelheim/termine"
+    },
+    {
+        "name": "Hungen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/hungen/termine"
+    },
+    {
+        "name": "Langgöns",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/langgoens/termine"
+    },
+    {
+        "name": "Laubach",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://buergerinfo.laubach-online.de/sessionnet/bi/si0040.asp"
+    },
+    {
+        "name": "Landkreis Gießen",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://politik.lkgi.de/bi/si0040.asp"
+    },
+    {
+        "name": "Lich",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://lich.ratsinfomanagement.net/termine"
+    },
+    {
+        "name": "Linden",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://www.sitzungsdienst-linden.de/bürgerinfo/si0040.asp"
+    },
+    {
+        "name": "Lollar",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/lollar/termine"
+    },
+    {
+        "name": "Pohlheim",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sitzungsdienst.pohlheim.de/bi/si0040.asp"
+    },
+    {
+        "name": "Reiskirchen",
+        "grabber": "SDNetGrabber",
+        "entry_point": "https://rim.ekom21.de/reiskirchen/gremien/termine"
+    },
+    {
+        "name": "Staufenberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://gremien-staufenberg.de/bi/si0040.php"
+    },
+    {
+        "name": "Wettenberg",
+        "grabber": "SessionNetGrabber",
+        "entry_point": "https://sessionnet.owl-it.de/Wettenberg/bi/si0040.asp"
+    }
+]
