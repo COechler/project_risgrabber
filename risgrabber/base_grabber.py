@@ -26,7 +26,7 @@ class BaseGrabber():
         os.makedirs(self.base_directory, exist_ok=True)
 
     
-    def get_all_sessions(self, , **kwargs) -> List[str]:
+    def get_all_sessions(self, **kwargs) -> List[str]:
         raise NotImplementedError("Methode zum Erstellen einer Liste mit allen Sitzungen wurde nicht implementiert!")
 
     
