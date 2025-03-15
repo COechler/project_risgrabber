@@ -114,7 +114,10 @@ class AllrisGrabberV3():
     
     def get_all_sessions(self) -> List[str]:
         # Gets the start and end year
-        start_year, end_year = self.get_year_range()
+        start_year, end_year = self.__get_year_range()
+
+        print(start_year)
+        print(end_year)
     
         # Saves the links of the session pages
         links_of_session_pages = []
@@ -275,16 +278,19 @@ class AllrisGrabberV3():
 
     
     def download_proposal(self, url_to_proposal) -> None:
+        # Guard to prevent processing of a empty url
+        assert url_to_proposal != "", "Es wurde keine URL der Vorlage angegeben."
+
          # Extract the proposal number from the url as a unique id
         match = re.search(r'(?<=VOLFDNR=)[0-9]*', url_to_proposal) 
 
         if match is None:
-            raise BaseException("Download keine eindeutige ID in URL gefunden!")
+            raise BaseException("Beim Download der Vorlage konnte keine eindeutige ID aus der URL extrahiert werden.")
         
         directory_id = match.group()
     
         
-        ## Sets the constants of the directory_path and file paths
+        # Sets the constants of the directory_path and file paths
         DIRECTORY_PATH = f'{self.base_directory}/rawdata/proposal_data/{directory_id}'
         WEBPAGE_PATH = f'{DIRECTORY_PATH}/proposal.html'
         PROPOSAL_DATA_FILE = f'{DIRECTORY_PATH}/proposal.json'
@@ -300,11 +306,7 @@ class AllrisGrabberV3():
         for attempts in range(MAXIMAL_DOWNLOAD_ATTEMPTS):
             try:
                 response = requests.get(url_to_proposal)
-
-                if response.status_code != 200:
-                    time.sleep(MAXIMAL_DOWNLOAD_ATTEMPTS * 60)
-                    continue
-                    
+                response.raise_for_status()
                 content = response.text
                 break
             except Exception:
@@ -320,12 +322,12 @@ class AllrisGrabberV3():
                 "source": {
                            "link": url_to_proposal,
                            "retrival date": str(datetime.now())
-                         }
+                         },
+                "documents": []
                }
     
-        data["documents"] = []
 
-        file_links = []
+        file_links: List[str] = []
         
         soup = BeautifulSoup(content, 'html.parser')
         aside_element = soup.find("aside", {"id":"dokumenteHeaderPanel"})
@@ -345,9 +347,23 @@ class AllrisGrabberV3():
             file_links.append(link_element["href"])
 
         
+        aside_element = soup.find("aside", {"id":"anlagenHeaderPanel"})
+
+        if aside_element is None:
+            link_elements = None
+        else:
+            link_elements = aside_element.find_all("a",{"class":"js-simple-tooltip attlink pdf"})
+
+        if link_elements is None:
+            link_elements = []
+
+        for link_element in link_elements:               
+            file_links.append(link_element["href"])
+
+        
         # Downloads the extracted files of the session
         for file_link in file_links:
-            filename, sha256_checksum = super().download_file(DIRECTORY_PATH, f'{file_link}')
+            filename, sha256_checksum = BaseGrabber.download_file(DIRECTORY_PATH, f'{file_link}')
 
             # Adds the information of the file to the data object of the session
             data["documents"].append({"filename": filename, "sha256-checksum": sha256_checksum})
@@ -355,8 +371,8 @@ class AllrisGrabberV3():
 
         # Saves the webpage and the metadata file
         try:
-            BaseGrabber().save_webpage(WEBPAGE_PATH, content)
-            super().save_jsonfile(PROPOSAL_DATA_FILE, data)
+            BaseGrabber.save_webpage(WEBPAGE_PATH, content)
+            BaseGrabber.save_jsonfile(PROPOSAL_DATA_FILE, data)
         
         except Exception:
             pass
