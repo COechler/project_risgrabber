@@ -175,11 +175,7 @@ class AllrisGrabberV3():
         for attempts in range(MAXIMAL_DOWNLOAD_ATTEMPTS):
             try:
                 response = requests.get(url_to_session)
-
-                if response.status_code != 200:
-                    time.sleep(MAXIMAL_DOWNLOAD_ATTEMPTS * 60)
-                    continue
-                    
+                response.raise_for_status()
                 content = response.text
                 break
             except Exception:
@@ -216,7 +212,7 @@ class AllrisGrabberV3():
 
         # Downloads the extracted files of the session
         for file_link in file_links:
-            filename, sha256_checksum = super().download_file(DIRECTORY_PATH, f'{file_link}')
+            filename, sha256_checksum = BaseGrabber.download_file(DIRECTORY_PATH, f'{file_link}')
 
             # Adds the information of the file to the data object of the session
             data["documents"].append({"filename": filename, "sha256-checksum": sha256_checksum})
