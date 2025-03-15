@@ -9,7 +9,7 @@ from datetime import datetime
 from typing import List, Tuple
 from urllib.parse import urljoin
 
-#https://ksd.rostock.de/bi/vo020?VOLFDNR=1028154&refresh=false
+
 class AllrisGrabberV3():
     def __init__(self, entry_point: str, base_directory: str):
         self.entry_point = entry_point
